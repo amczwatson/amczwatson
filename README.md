@@ -11,7 +11,7 @@ I love knitting, reading, and birding!
 
 I explored [Data Curation](https://github.com/topics/data-curation) and [Digital Preservation](https://github.com/topics/digital-preservation). 
 
-Not surprisingly, I guess, there are a lot of repositories with an AI focus in the “data curation” search. Honestly, a lot of these repositories are hard for me to understand exactly what’s going on, but it seems like a lot of them are tools to help you scrape, manage, and/or analyze data more efficiently. A few include how-to information from online courses or tutorial video series like this one about [curating data in Wolfram](https://github.com/WolframResearch/Data-Curation-Training).
+Not surprisingly, I guess, there are a lot of repositories with an AI focus in the “data curation” search. Honestly, a lot of these repositories are hard for me to understand exactly what’s going on because they are very computer-science heavy, but it seems like a lot of them are tools to help you scrape, manage, and/or analyze data more efficiently. A few include how-to information from online courses or tutorial video series like this one about [curating data in Wolfram](https://github.com/WolframResearch/Data-Curation-Training).
 
 The digital preservation search was more interesting and understandable to me. The very first one caught my eye – [WikiTeam](https://github.com/WikiTeam/wikiteam) archives any wikis it can find across the internet, even small ones. Most amazingly to me, it has archived 34TB (!) of Wikimedia Commons image files. The project aims to keep wikis from disappearing from the internet and make the information and images on them available forever (in theory).
 
