@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a graduate student in Library and Information Science at Drexel University 🐉
+
+I have a bachelor's degree in history with a minor in Spanish from the University of Virginia <em>WAHOOWA</em>
+
+I love knitting, reading, and birding!
+
 <!--
 **amczwatson/amczwatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
